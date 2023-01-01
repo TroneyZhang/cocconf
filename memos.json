@@ -1,0 +1,11 @@
+{
+  "coc-json|global": {
+    "json-schema-cache": {
+      "http://json.schemastore.org/prettierrc": {
+        "etag": "\"80e08ca9849bd81:0\"",
+        "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
+        "updateTime": 1671470667797
+      }
+    }
+  }
+}
